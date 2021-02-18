@@ -6,7 +6,7 @@ The biggest challenge for this project was cleaning data and conducting a struct
 
 There are three datasets used for analysis: 
 1. archived dataframe (twitter-archive-enhanced.csv): df
-2. image dataframe: image_df
+2. image dataframe: image_df (url: https://d17h27t6h515a5.cloudfront.net/topher/2017/August/599fd2ad_image-predictions/image-predictions.tsv)
 3. extracted from Twitter API: new_df
 The final dataset after cleaning is (twitter_archive_master.csv) in the folder
 
